@@ -14,23 +14,24 @@
 </div>
 
 ![](https://github.com/gabrielvalladao/valladao/blob/main/cover.png)
-The Dark-Mode always wins.
+🤖 The Dark-Mode always wins.
 
 A pergunta que eu sempre me faço é `Será que alguém usaria isso?` e `Como a Apple faria?`.
 
 ### 👋 Começando com Valladão.
 
-Eu construo interfaces amigáveis e tento codá-las para ajudar no hobbie de alguém. Além disso eu tenho hobbies também, eu gosto muito de ler e acumular coisas úteis. Meus favoritos já estão lotados, por isso resolvi criar um repo público pra compartilhar algumas coisas úteis com vocês.
+Eu construo interfaces amigáveis e tento codá-las para ajudar no hobbie de alguém, mas no final acaba sendo hobbie meu mesmo. Além disso eu tenho outros hobbies também, eu gosto muito de ler e acumular coisas úteis. Meus favoritos já estão lotados, por isso resolvi criar um repo público pra compartilhar algumas coisas úteis com vocês.
 
 
-- 🔭 I’m currently working on building and improving a configuration-based format for managing complex data pipelines in Airflow - [Declarative Data Pipeline Definition](https://www.thoughtworks.com/de/radar/techniques?blipid=202005084).
-- 🌱 I’m currently learning more Scala, NLP, and how to [write](https://medium.com/@dineshkarthik.r) occasionally.
-- 👯 I’m looking to collaborate on contributing to python based projects and mentoring.
-- 🤔 I’m looking for contributions to the [`telegram-media-downloader`](https://github.com/Dineshkarthik/telegram_media_downloader) repository(code, report issues) 
-- 💬 Ask me about data science and engineering, learning, and career.
-- 📫 How to reach me: [hello@dineshkarthik.me](mailto:hello@dineshkarthik.me)
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: Never used PyCharm or IntelliJ or any such IDE
+- 📂 [Projetos](https://www.github.com/).
+- 🌱 Atualemente estou fazendo 4 cursos diferentes: Linkedin Learning, The Interaction Design Foundation, Estácio de Sá e na Tera.
+- 📚 Consulte minha biblioteca. `Eu também escrevo livros´
+- 👯 Faço mentorias de recolocação profissional gratuitas e participo de projetos voluntários.
+- 🤔 Eu estou querendo criar uma wiki particular [`telegram-media-downloader`](https://github.com/Dineshkarthik/telegram_media_downloader) repository(code, report issues) 
+- 💬 Eu acumulo memórias inenarráveis. Me pergunte coisas sobre trabalho, carreira, design, tecnologia, futurismo e ciência.
+- 📫 Meu e-mail: [contato@gabrielvalladao.com](mailto:contato@gabrielvalladao.com)
+- 😄🌈 Pronome: Ele/o
+- ⚡ Fato divertido: eu toco teclado/piano quando estou inspirado.
 
 ## Connect with Me 🤝🏻
 
