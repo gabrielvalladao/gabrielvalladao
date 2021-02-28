@@ -25,7 +25,7 @@ Eu construo interfaces amigáveis e tento codá-las para ajudar no hobbie de alg
 
 - 📂 [Projetos](https://www.github.com/).
 - 🌱 Atualmente estou fazendo 4 cursos diferentes: Linkedin Learning, The Interaction Design Foundation, Estácio de Sá e na Tera.
-- 📚 Consulte minha biblioteca. `Eu também escrevo livros´
+- 📚 Consulte minha biblioteca. `Eu também escrevo livros`
 - 👯 Faço mentorias de recolocação profissional gratuitas e participo de projetos voluntários.
 - 🤔 Eu estou querendo criar uma wiki particular
 - 💬 Eu acumulo memórias inenarráveis. Me pergunte coisas sobre trabalho, carreira, design, tecnologia, futurismo e ciência.
