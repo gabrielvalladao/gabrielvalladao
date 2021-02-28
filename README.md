@@ -24,7 +24,7 @@ Eu construo interfaces amigáveis e tento codá-las para ajudar no hobbie de alg
 
 
 - 📂 [Projetos](https://www.github.com/).
-- 🌱 Atualemente estou fazendo 4 cursos diferentes: Linkedin Learning, The Interaction Design Foundation, Estácio de Sá e na Tera.
+- 🌱 Atualmente estou fazendo 4 cursos diferentes: Linkedin Learning, The Interaction Design Foundation, Estácio de Sá e na Tera.
 - 📚 Consulte minha biblioteca. `Eu também escrevo livros´
 - 👯 Faço mentorias de recolocação profissional gratuitas e participo de projetos voluntários.
 - 🤔 Eu estou querendo criar uma wiki particular [`telegram-media-downloader`](https://github.com/Dineshkarthik/telegram_media_downloader) repository(code, report issues) 
