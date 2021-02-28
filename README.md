@@ -1,6 +1,6 @@
 <div align="center">
    <h1>Olá, eu sou o <a href="https://hemant.codes">Valladão</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-   <h4 align="center"><samp> Na verdade eu sou <s>Developer</s> Designer e resolvi escrever uns códigos 👨‍💻 no :octocat: por aí. </samp></h4>
+   <h4 align="center"><samp> Na verdade eu sou <s>Developer</s> Designer e resolvi escrever uns códigos no :octocat: Git | Github por aí. </samp></h4>
 
    
    
