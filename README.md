@@ -1,6 +1,6 @@
 <div align="center">
    <h1>Olá, eu sou o <a href="https://hemant.codes">Valladão</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-   <h4 align="center"><samp> Eu sou um <s>Developer</s> Designer que resolveu se aventurar e <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">  uns códigos :octocat: por aí. </samp></h4>
+   <h4 align="center"><samp> Eu sou um <s>Developer</s> Designer que resolveu se aventurar e <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> uns códigos :octocat: por aí. </samp></h4>
 
    
    
@@ -17,5 +17,5 @@
 
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Gabriel Valladão | 💻 Designer UI/UX & Front-end Developer  | 🛸 India , UK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Gabriel Valladão | 💻 Designer UI/UX & Front-end Developer  | 🛸 Brasil, BR. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
