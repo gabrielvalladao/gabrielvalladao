@@ -1,5 +1,7 @@
 <div align="center">
    <h1>Olá, eu sou o <a href="https://hemant.codes">Valladão</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h4 align="center"><samp> Na verdade eu sou Designer <s>Python</s> Vi um gatinho interessante e resolvi codar 🐍 ☁️ </samp></h4>
+
    
    
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
